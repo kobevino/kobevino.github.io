@@ -4,15 +4,8 @@ before_script:
 node_js:
   - "15.14.0"
 deploy:
-  provider: pages
+  provider: script
+  script: yarn && yarn deploy
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN 
-  keep_history: true
-  target_branch: main
   on:
     branch: master
-  # provider: script
-  # script: yarn && yarn deploy
-  # skip_cleanup: true
-  # on:
-  #   branch: master
