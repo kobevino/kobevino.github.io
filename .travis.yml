@@ -4,7 +4,7 @@ before_script:
 node_js:
   - "15.14.0"
 deploy:
-  provider: script
+  provider: pages
   script: yarn && yarn deploy
   skip_cleanup: true
   on:
