@@ -8,5 +8,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
+  target-branch: main
   on:
-    branch: main
+    branch: master
