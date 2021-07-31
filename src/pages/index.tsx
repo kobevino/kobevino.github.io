@@ -4,7 +4,7 @@ const index = () => {
   return (
     <div>
       Hello, gatsby!!
-      <b>travis test 07</b>
+      <b>travis test 08</b>
     </div>
   )
 }
