@@ -2,7 +2,7 @@ language: node_js
 before_script:
   - npm install -g gatsby-cli
 node_js:
-  - "10"
+  - "15.14.0"
 deploy:
   provider: script
   script: yarn && yarn deploy
