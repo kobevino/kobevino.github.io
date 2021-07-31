@@ -2,10 +2,12 @@ language: node_js
 before_script:
   - npm install -g gatsby-cli
 node_js:
-  - "15.14.0"
+  - 15.14.0
 deploy:
-  provider: script
-  script: yarn install && yarn deploy
+  provider: pages
   skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  script: yarn install && yarn deploy
+  target-branch: main
   on:
-    branch: main
+    branch: master
