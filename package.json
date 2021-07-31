@@ -8,6 +8,7 @@
     "gatsby"
   ],
   "scripts": {
+    "test": "echo 'test'",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
