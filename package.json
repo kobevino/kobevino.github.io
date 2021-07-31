@@ -14,7 +14,8 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main -r https://$GITHUB_TOKEN@github.com/kobevino/kobevino.github.io.git"
+    "deploy": "gatsby build && gh-pages -d public -b main -r https://$GITHUB_TOKEN@github.com/kobevino/kobevino.github.io.git",
+    "deploy:manual": "gatsby build && gh-pages -d public -b main"
   },
   "dependencies": {
     "@emotion/react": "^11.4.0",

@@ -13,7 +13,11 @@ This is my portfolio.
 $ yarn start
 ```
 
-### Run deployment
+### Run manual deployment without travis CI & CD
 ```
-$ yarn deploy
+$ yarn build:manual
 ```
+
+### Github webhook configuration
+
+`https://notify.travis-ci.org`
