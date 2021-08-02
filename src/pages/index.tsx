@@ -1,12 +1,19 @@
-import * as React from 'react';
-import Test from 'components/Test';
+import Contact from "components/Contact";
+import FrontendArt from "components/FrontendArt";
+import Scratch from "components/Scratch/indext";
+import Swipe from "components/Swipe/Index";
+import Technology from "components/Technology";
+import Layout from "layout";
 
 const index = () => {
   return (
-    <div>
-      Hello, gatsby!!
-      <Test />
-    </div>
+    <Layout>
+      <FrontendArt />
+      <Technology />
+      <Scratch />
+      <Swipe />
+      <Contact />
+    </Layout>
   )
 }
 
