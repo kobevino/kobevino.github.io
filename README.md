@@ -15,7 +15,7 @@ $ yarn start
 
 ### Run manual deployment without travis CI & CD
 ```
-$ yarn build:manual
+$ yarn deploy:manual
 ```
 
 ### Github webhook configuration
