@@ -1,10 +1,11 @@
 import * as React from 'react';
+import Test from 'components/Test';
 
 const index = () => {
   return (
     <div>
       Hello, gatsby!!
-      <b>travis test success</b>
+      <Test />
     </div>
   )
 }
