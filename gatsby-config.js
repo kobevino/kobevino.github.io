@@ -16,6 +16,6 @@ module.exports = {
         layout: path.join(__dirname, 'src/layout'),
         libs: path.join(__dirname, 'src/libs'),
       }
-    }
+    },
   ],
 };

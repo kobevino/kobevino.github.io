@@ -12,7 +12,7 @@ let line = 1;
 let speed = 200;
 let text = 'KOBEVINO';
 
-function drawLogo(target: HTMLElement) {
+function initLogo(target: HTMLElement) {
   canvas = document.createElement('canvas');
   ctx = canvas.getContext('2d') as CanvasRenderingContext2D;
   sw = document.body.clientWidth;
@@ -54,4 +54,4 @@ function animate() {
   }
 }
 
-export { drawLogo };
+export { initLogo };
