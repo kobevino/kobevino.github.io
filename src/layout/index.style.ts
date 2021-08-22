@@ -16,7 +16,7 @@ export default {
     }
 
     & > section:first-of-type {
-      background: ${color.pastel.blue};
+      background: #000;
     }
     & > section:nth-of-type(2) {
       background: ${color.pastel.pink};

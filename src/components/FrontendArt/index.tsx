@@ -1,23 +1,21 @@
 import { useRef } from "react";
 import { useEffect } from "react";
+import WebFont from 'webfontloader';
+import { drawLogo } from 'libs/canvas/logo';
 
 const FrontendArt = () => {
-
-  const ref = useRef<HTMLDivElement>(null);
+  const ref = useRef<HTMLElement>(null);
 
   useEffect(() => {
-    if (ref.current === null) return;
-    const canvas = document.createElement('canvas');
-    canvas.width = document.body.clientWidth * 2;
-    canvas.height = document.body.clientHeight * 2;
-
-    const ctx = canvas.getContext('2d');
-
-    if (!ctx) return;
-
-    ctx.scale(2, 2);
-
-    ref.current.appendChild(canvas);
+    WebFont.load({
+      google: {
+        families: ['Hind:700']
+      },
+      fontactive: () => {
+        if (ref.current === null) return;
+        drawLogo(ref.current);
+      }
+    })
   }, []);
 
   return (
@@ -26,3 +24,5 @@ const FrontendArt = () => {
 }
 
 export default FrontendArt;
+
+

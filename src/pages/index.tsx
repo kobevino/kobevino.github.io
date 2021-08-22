@@ -9,10 +9,10 @@ const index = () => {
   return (
     <Layout>
       <FrontendArt />
-      <Technology />
+      {/* <Technology />
       <Scratch />
       <Swipe />
-      <Contact />
+      <Contact /> */}
     </Layout>
   )
 }
