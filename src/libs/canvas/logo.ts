@@ -1,57 +1,59 @@
-let canvas: HTMLCanvasElement;
-let ctx: CanvasRenderingContext2D;
-let sw: number, sh: number;
+class Logo {
+  canvas: HTMLCanvasElement;
+  ctx: CanvasRenderingContext2D;
+  sw: number;
+  sh: number;
+  private PIXEL_RATIO = 2;
+  private FONT_SIZE = 15;
+  private FONT_WEIGHT = 700;
+  private FONT_NAME = 'Hind';
+  private X_AXIS = 15;
+  private Y_AXIS = 20;
+  private LINE = 1;
+  private SPEED = 200;
+  private LOGO_TEXT = 'KOBEVINO';
 
-const PIXEL_RATIO = 2;
-const FONT_SIZE = 15;
-const FONT_WEIGHT = 700;
-const FONT_NAME = 'Hind';
-const X_AXIS = 15;
-const Y_AXIS = 20;
-let line = 1;
-let speed = 200;
-let text = 'KOBEVINO';
+  constructor(target: HTMLElement) {
+    this.canvas = document.createElement('canvas');
+    this.ctx = this.canvas.getContext('2d')!;
+    this.sw = document.body.clientWidth;
+    this.sh = document.body.clientHeight;
 
-function initLogo(target: HTMLElement) {
-  canvas = document.createElement('canvas');
-  ctx = canvas.getContext('2d') as CanvasRenderingContext2D;
-  sw = document.body.clientWidth;
-  sh = document.body.clientHeight;
+    this.canvas.width = this.sw * this.PIXEL_RATIO;
+    this.canvas.height = this.sh * this.PIXEL_RATIO;
+    this.canvas.style.width = `${this.sw}px`;
+    this.canvas.style.height = `${this.sh}px`;
+    this.ctx.scale(this.PIXEL_RATIO, this.PIXEL_RATIO);
 
-  canvas.width = sw * PIXEL_RATIO;
-  canvas.height = sh * PIXEL_RATIO;
-  canvas.style.width = sw + 'px';
-  canvas.style.height = sh + 'px';
-  ctx.scale(PIXEL_RATIO, PIXEL_RATIO);
+    this.ctx.strokeStyle = this.ctx.fillStyle = '#fff';
+    this.ctx.font = `${this.FONT_WEIGHT} ${this.FONT_SIZE}px ${this.FONT_NAME}`;
+    this.ctx.textBaseline = 'middle';
 
-  ctx.strokeStyle = ctx.fillStyle = '#fff';
-  ctx.font = `${FONT_WEIGHT} ${FONT_SIZE}px ${FONT_NAME}`;
-  ctx.textBaseline = 'middle';
+    this.animate();
 
-  animate();
-  
-  target.appendChild(canvas);
-}
+    target.appendChild(this.canvas);
+  }
 
-function animate() {
-  ctx.clearRect(0, 0, sw, sh);
-  
-  ctx.setLineDash([line, speed]);
-  ctx.strokeText(text, X_AXIS, Y_AXIS);
+  animate = () => { 
+    this.ctx.clearRect(0, 0, this.sw, this.sh);
+    
+    this.ctx.setLineDash([this.LINE, this.SPEED]);
+    this.ctx.strokeText(this.LOGO_TEXT, this.X_AXIS, this.Y_AXIS);
 
-  line += 1;
-  speed -= 1;
+    this.LINE += 1;
+    this.SPEED -= 1;
 
-  if (speed <= 0) {
-    ctx.fillText(text, X_AXIS, Y_AXIS);
-    setTimeout(() => {
-      line = 1;
-      speed = 200;
-      requestAnimationFrame(animate);
-    }, 2000);
-  } else {
-    requestAnimationFrame(animate);
+    if (this.SPEED <= 0) {
+      this.ctx.fillText(this.LOGO_TEXT, this.X_AXIS, this.Y_AXIS);
+      setTimeout(() => {
+        this.LINE = 1;
+        this.SPEED = 200;
+        requestAnimationFrame(this.animate);
+      }, 2000);
+    } else {
+      requestAnimationFrame(this.animate);
+    }
   }
 }
 
-export { initLogo };
+export default Logo;

@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { useEffect } from "react";
-import { initLogo } from 'libs/canvas/logo';
+import Logo from 'libs/canvas/logo';
 import WebFont from 'webfontloader';
 
 const FrontendArt = () => {
@@ -13,7 +13,7 @@ const FrontendArt = () => {
       },
       fontactive: () => {
         if (ref.current === null) return;
-        initLogo(ref.current);
+        new Logo(ref.current);
       }
     })
   }, []);
