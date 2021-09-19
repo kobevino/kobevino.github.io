@@ -25,17 +25,17 @@ export default {
     top: 5px;
     width: 120px;
     height: 120px;
-    ${mqMinWidth[1]} {
-      width: 200px;
-      height: 200px;
-    }
     border-radius: 50%;
     margin: 12px 30px;
     cursor: pointer;
     overflow: hidden;
+    isolation: isolate;
     animation: ${bounce} .3s ease-in-out infinite alternate;
     box-shadow: 0 0px 10px rgba(0, 0, 0, .4);
-    
+    ${mqMinWidth[1]} {
+      width: 200px;
+      height: 200px;
+    }
     a > div {
         background-color: #fff;
       }
