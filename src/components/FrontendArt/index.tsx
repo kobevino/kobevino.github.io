@@ -1,5 +1,4 @@
-import { useRef } from "react";
-import { useEffect } from "react";
+import { useRef, useEffect } from 'react';
 import Logo from 'libs/canvas/logo';
 import WebFont from 'webfontloader';
 
@@ -15,14 +14,12 @@ const FrontendArt = () => {
         if (ref.current === null) return;
         new Logo(ref.current);
       }
-    })
+    });
   }, []);
 
   return (
     <section ref={ref} />
-  )
+  );
 }
 
 export default FrontendArt;
-
-

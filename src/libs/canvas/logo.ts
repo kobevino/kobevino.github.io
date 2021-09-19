@@ -29,7 +29,7 @@ class Logo {
     this.ctx.font = `${this.FONT_WEIGHT} ${this.FONT_SIZE}px ${this.FONT_NAME}`;
     this.ctx.textBaseline = 'middle';
 
-    this.animate();
+    requestAnimationFrame(this.animate);
 
     target.appendChild(this.canvas);
   }
