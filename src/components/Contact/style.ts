@@ -23,8 +23,8 @@ export default {
     display: inline-block;
     position: relative;
     top: 5px;
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     margin: 12px 30px;
     cursor: pointer;
@@ -33,6 +33,10 @@ export default {
     animation: ${bounce} .3s ease-in-out infinite alternate;
     box-shadow: 0 0px 10px rgba(0, 0, 0, .4);
     ${mqMinWidth[1]} {
+      width: 150px;
+      height: 150px;
+    }
+    ${mqMinWidth[2]} {
       width: 200px;
       height: 200px;
     }
