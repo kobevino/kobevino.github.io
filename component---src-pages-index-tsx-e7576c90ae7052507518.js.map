@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-index-tsx-e7576c90ae7052507518.js","mappings":"mIAUA,UARc,WACZ,OACE","sources":["webpack://kobevino/./src/pages/index.tsx"],"sourcesContent":["import * as React from 'react';\n\nconst index = () => {\n  return (\n    <div>\n      Hello, gatsby!!\n    </div>\n  )\n}\n\nexport default index;"],"names":[],"sourceRoot":""}
