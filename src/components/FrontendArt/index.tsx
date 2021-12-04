@@ -44,7 +44,7 @@ const FrontendArt = () => {
     <section ref={logoRef} css={style.wrapper}>
       <div css={style.container}>
         <p css={style.text}>
-          I Can do <span ref={typingRef} css={style.typing}>{text}</span>.
+          I Can do&nbsp;<span ref={typingRef} css={style.typing}>{text}</span>.
         </p>
       </div>
     </section>
