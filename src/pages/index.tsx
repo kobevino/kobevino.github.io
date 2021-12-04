@@ -17,7 +17,7 @@ const index = ({ data }: PageProps) => {
       {/* <Technology />
       <Scratch />
       <Swipe /> */}
-      <Contact social={social} icons={socialIcons.edges} />
+      {/* <Contact social={social} icons={socialIcons.edges} /> */}
     </Layout>
   )
 };
