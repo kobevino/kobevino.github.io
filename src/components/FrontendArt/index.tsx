@@ -5,7 +5,7 @@ import WebFont from 'webfontloader';
 import style from './style';
 
 const FrontendArt = () => {
-  const texts = ['Javascript', 'SCSS', 'Typescript', 'React', 'Webpack', 'Rollup', 'D3.js', 'Next.js', 'Node.js', 'Jenkins'];
+  const texts = ['JavaScript', 'Sass', 'TypeScript', 'React', 'Webpack', 'rollup.js', 'D3.js', 'Next.js', 'Node.js', 'Jenkins'];
   const logoRef = useRef<HTMLElement>(null);
   const typingRef = useRef<HTMLSpanElement>(null);
   const [text, setText] = useState('Javascript');
@@ -44,7 +44,7 @@ const FrontendArt = () => {
     <section ref={logoRef} css={style.wrapper}>
       <div css={style.container}>
         <p css={style.text}>
-          I Can do&nbsp;<span ref={typingRef} css={style.typing}>{text}</span>.
+          I'm fluent in&nbsp;<span ref={typingRef} css={style.typing}>{text}</span>.
         </p>
       </div>
     </section>
