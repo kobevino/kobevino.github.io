@@ -8,7 +8,7 @@ const FrontendArt = () => {
   const texts = ['JavaScript', 'Sass', 'TypeScript', 'React', 'Webpack', 'rollup.js', 'D3.js', 'Next.js', 'Node.js', 'Jenkins'];
   const logoRef = useRef<HTMLElement>(null);
   const typingRef = useRef<HTMLSpanElement>(null);
-  const [text, setText] = useState('Javascript');
+  const [text, setText] = useState('JavaScript');
 
   const changeText = (e: AnimationEvent) => {
 

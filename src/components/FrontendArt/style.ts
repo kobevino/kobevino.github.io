@@ -47,7 +47,6 @@ export default {
     overflow: hidden;
     border-right: .05em solid #fff;
     white-space: nowrap;
-    margin-left: 5px;
     width: 100%;
     animation: 5s ${typing} 0s steps(40, end) infinite, ${blink} .5s steps(40, end) infinite;
   `,
