@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkobevino=self.webpackChunkkobevino||[]).push([[691],{738:function(e,n,u){u.r(n);u(294);var t=u(964);n.default=function(){return(0,t.tZ)("div",null,"Hello, gatsby!!")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-e7576c90ae7052507518.js.map
