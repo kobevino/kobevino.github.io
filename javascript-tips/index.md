@@ -19,10 +19,10 @@ const uid = () => {
 uid() // lzv9r2pa6ij4v3lz6jt
 ```
 
-You don't have to install packages that is related to create unique id.
-This is fast and easy way to create unique id using javascript.
+You don't have to install packages that are related to create a unique id.
+This is fast and easy way to create a unique id using javascript.
 
-## How to implement method chaning
+## How to implement method chaining
 
 ```js
 class Person {
