@@ -1,0 +1,312 @@
+3:I[6731,[],""]
+5:I[2923,[],""]
+6:I[5403,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"ColorSchemeScript"]
+7:I[9420,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"MantineProvider"]
+8:I[7513,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"Header"]
+9:I[863,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"Container"]
+b:I[7792,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Title"]
+c:I[8002,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Text"]
+4:["slug","implement-https","d"]
+a:T53f,M62.6 142c-2.133 0-3.2-1.067-3.2-3.2V118h-56c-2 0-3-1-3-3V92.8c0-1.333.4-2.733 1.2-4.2L58.2 4c.8-1.333 2.067-2 3.8-2h28c2 0 3 1 3 3v85.4h11.2c.933 0 1.733.333 2.4 1 .667.533 1 1.267 1 2.2v21.2c0 .933-.333 1.733-1 2.4-.667.533-1.467.8-2.4.8H93v20.8c0 2.133-1.067 3.2-3.2 3.2H62.6zM33 90.4h26.4V51.2L33 90.4zM181.67 144.6c-7.333 0-14.333-1.333-21-4-6.666-2.667-12.866-6.733-18.6-12.2-5.733-5.467-10.266-13-13.6-22.6-3.333-9.6-5-20.667-5-33.2 0-12.533 1.667-23.6 5-33.2 3.334-9.6 7.867-17.133 13.6-22.6 5.734-5.467 11.934-9.533 18.6-12.2 6.667-2.8 13.667-4.2 21-4.2 7.467 0 14.534 1.4 21.2 4.2 6.667 2.667 12.8 6.733 18.4 12.2 5.734 5.467 10.267 13 13.6 22.6 3.334 9.6 5 20.667 5 33.2 0 12.533-1.666 23.6-5 33.2-3.333 9.6-7.866 17.133-13.6 22.6-5.6 5.467-11.733 9.533-18.4 12.2-6.666 2.667-13.733 4-21.2 4zm0-31c9.067 0 15.6-3.733 19.6-11.2 4.134-7.6 6.2-17.533 6.2-29.8s-2.066-22.2-6.2-29.8c-4.133-7.6-10.666-11.4-19.6-11.4-8.933 0-15.466 3.8-19.6 11.4-4 7.6-6 17.533-6 29.8s2 22.2 6 29.8c4.134 7.467 10.667 11.2 19.6 11.2zM316.116 142c-2.134 0-3.2-1.067-3.2-3.2V118h-56c-2 0-3-1-3-3V92.8c0-1.333.4-2.733 1.2-4.2l56.6-84.6c.8-1.333 2.066-2 3.8-2h28c2 0 3 1 3 3v85.4h11.2c.933 0 1.733.333 2.4 1 .666.533 1 1.267 1 2.2v21.2c0 .933-.334 1.733-1 2.4-.667.533-1.467.8-2.4.8h-11.2v20.8c0 2.133-1.067 3.2-3.2 3.2h-27.2zm-29.6-51.6h26.4V51.2l-26.4 39.2z0:["LV2OZufGfTxcDymUJqdCW",[[["",{"children":[["slug","implement-https","d"],{"children":["__PAGE__?{\"slug\":\"implement-https\"}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","implement-https","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/4c62bdaf9ccfa79d.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L6",null,{"defaultColorScheme":"auto"}]}],["$","body",null,{"children":["$","$L7",null,{"theme":{"cursorType":"pointer"},"defaultColorScheme":"auto","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{"className":"not-found_root___8tHH","children":["$","div",null,{"className":"not-found_inner__jk2We","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 362 145","className":"not-found_image__klXiS","children":[["$","title",null,{"children":"404"}],["$","path",null,{"fill":"currentColor","d":"$a"}]]}],["$","div",null,{"className":"not-found_content__cklTM","children":[["$","$Lb",null,{"className":"not-found_title__bOfUG","children":"Nothing to see here"}],["$","$Lc",null,{"c":"dimmed","size":"lg","ta":"center","className":"not-found_description__7RPJl","children":"Page you are trying to open does not exist. You may have mistyped the address, or the page has been moved to another URL. If you think this is an error contact support."}]]}]]}]}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/9b82fbf9d3dab81a.css","precedence":"next","crossOrigin":"$undefined"}]],"styles":null}]}]]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/dbb50fd420b33798.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"./_next/static/css/456480efaa4d0c44.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$Ld"]]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Kobe's Blog"}],["$","meta","3",{"name":"description","content":"Generated by Jaesung Lee"}],["$","link","4",{"rel":"icon","href":"/favicon.ico"}]]
+1:null
+e:I[5287,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Stack"]
+f:I[9231,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Group"]
+11:I[3179,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Comments"]
+10:T9302,<p><img src="./implement-https/ec2-route53-ssl.png" alt="blueprint"></p>
+<h2>What we have to do for the above image.</h2>
+<ol>
+<li>Create an instance</li>
+<li>Register domain and allocate your elastic ip</li>
+<li>Install nginx</li>
+<li>Implement SSL</li>
+<li>Automate authentication certificate using crontab</li>
+</ol>
+<h2>Create Instance</h2>
+<p><img src="./implement-https/network-setting.png" alt="network setting"></p>
+<p>Don't forget to check two options when you create an instance.
+And we have to allocate an elastic ip address to your instance. We finished first step.</p>
+<p><img src="./implement-https/ec2-instance.png" alt="ec2 instance"></p>
+<h2>Register domain</h2>
+<p><img src="./implement-https/register-domain.png" alt="ec2 instance"></p>
+<p>Check the domain you want to register for and then buy the domain.</p>
+<p><img src="./implement-https/hosted-zone.png" alt="ec2 instance"></p>
+<p>Move to hosted zones and click your domain.</p>
+<p><img src="./implement-https/create-record.png" alt="ec2 instance"></p>
+<p>Click the button, create record.</p>
+<p><img src="./implement-https/quick-create-record.png" alt="ec2 instance"></p>
+<p>Input your elastic ip address in value.</p>
+<p>As a result, we connected route53 to ec2 instance.</p>
+<h2>Install nginx</h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Connect to your instance</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> ssh</span><span style="color:#BD93F9"> -i</span><span style="color:#F1FA8C"> `</span><span style="color:#50FA7B">your.pem</span><span style="color:#F1FA8C">`</span><span style="color:#50FA7B"> ec2-user@kobevino.org</span></span>
+<span data-line=""><span style="color:#6272A4"># Install nginx</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> yum</span><span style="color:#F1FA8C"> install</span><span style="color:#F1FA8C"> nginx</span></span>
+<span data-line=""><span style="color:#6272A4"># Run nginx server</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> systemctl</span><span style="color:#F1FA8C"> start</span><span style="color:#F1FA8C"> nginx</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Connect to your instance
+$ ssh -i &#x60;your.pem&#x60; ec2-user@kobevino.org
+# Install nginx
+$ sudo yum install nginx
+# Run nginx server
+$ sudo systemctl start nginx" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./implement-https/nginx-domain.png" alt="nginx domain"></p>
+<p>You can see a welcome page of nginx without ssl. We have to implement SSL with let's encrypt.</p>
+<h2>Implement SSL</h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Stop nginx server</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> systemctl</span><span style="color:#F1FA8C"> stop</span><span style="color:#F1FA8C"> nginx</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> cd</span><span style="color:#F1FA8C"> /etc/nginx</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> vim</span><span style="color:#F1FA8C"> nginx.conf</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Stop nginx server
+$ sudo systemctl stop nginx
+$ cd /etc/nginx
+$ sudo vim nginx.conf" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./implement-https/nginx-server-name.png" alt="nginx server name"></p>
+<p>Input your domain on <code>server_name</code> field in <code>server</code> block.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Install certbot</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> yum</span><span style="color:#F1FA8C"> install</span><span style="color:#F1FA8C"> certbot</span></span>
+<span data-line=""><span style="color:#6272A4"># Install nginx plugin</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> yum</span><span style="color:#F1FA8C"> install</span><span style="color:#F1FA8C"> python-certbot-nginx</span></span>
+<span data-line=""><span style="color:#6272A4"># execute certbot</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> certbot</span><span style="color:#BD93F9"> --nginx</span><span style="color:#BD93F9"> -d</span><span style="color:#F1FA8C"> kobevino.org</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Install certbot
+$ sudo yum install certbot
+# Install nginx plugin
+$ sudo yum install python-certbot-nginx
+# execute certbot
+$ sudo certbot --nginx -d kobevino.org" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./implement-https/input-email.png" alt="input email"></p>
+<p>After last command, <code>sudo certbot --nginx -d kobevino.org</code>, you have to write your email.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="nginx" data-theme="dracula"><code data-language="nginx" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># For more information on configuration, see:</span></span>
+<span data-line=""><span style="color:#6272A4">#   * Official English Documentation: http://nginx.org/en/docs/</span></span>
+<span data-line=""><span style="color:#6272A4">#   * Official Russian Documentation: http://nginx.org/ru/docs/</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">user </span><span style="color:#F8F8F2">nginx;</span></span>
+<span data-line=""><span style="color:#FF79C6">worker_processes </span><span style="color:#F8F8F2">auto;</span></span>
+<span data-line=""><span style="color:#FF79C6">error_log </span><span style="color:#F8F8F2">/var/log/nginx/error.log </span><span style="color:#BD93F9">notice</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""><span style="color:#FF79C6">pid </span><span style="color:#F8F8F2">/run/nginx.pid;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#6272A4"># Load dynamic modules. See /usr/share/doc/nginx/README.dynamic.</span></span>
+<span data-line=""><span style="color:#FF79C6">include </span><span style="color:#F8F8F2">/usr/share/nginx/modules/*.conf;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">events</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#FF79C6">    worker_connections </span><span style="color:#BD93F9">1024</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">http</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#FF79C6">    log_format </span><span style="color:#BD93F9"> main</span><span style="color:#F1FA8C">  '$</span><span style="color:#F8F8F2">remote_addr</span><span style="color:#F1FA8C"> - $</span><span style="color:#F8F8F2">remote_user</span><span style="color:#F1FA8C"> [$</span><span style="color:#F8F8F2">time_local</span><span style="color:#F1FA8C">] "$</span><span style="color:#F8F8F2">request</span><span style="color:#F1FA8C">" '</span></span>
+<span data-line=""><span style="color:#F1FA8C">                      '$</span><span style="color:#F8F8F2">status</span><span style="color:#F1FA8C"> $</span><span style="color:#F8F8F2">body_bytes_sent</span><span style="color:#F1FA8C"> "$</span><span style="color:#F8F8F2">http_referer</span><span style="color:#F1FA8C">" '</span></span>
+<span data-line=""><span style="color:#F1FA8C">                      '"$</span><span style="color:#F8F8F2">http_user_agent</span><span style="color:#F1FA8C">" "$</span><span style="color:#F8F8F2">http_x_forwarded_for</span><span style="color:#F1FA8C">"'</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">    access_log </span><span style="color:#F8F8F2"> /var/log/nginx/access.log  </span><span style="color:#BD93F9">main</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">    sendfile </span><span style="color:#BD93F9">           on</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""><span style="color:#FF79C6">    tcp_nopush </span><span style="color:#BD93F9">         on</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""><span style="color:#FF79C6">    keepalive_timeout </span><span style="color:#BD93F9">  65</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""><span style="color:#FF79C6">    types_hash_max_size </span><span style="color:#BD93F9">4096</span><span style="color:#F8F8F2">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">    include </span><span style="color:#F8F8F2">            /etc/nginx/mime.types;</span></span>
+<span data-line=""><span style="color:#FF79C6">    default_type </span><span style="color:#F8F8F2">       application/octet-stream;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#6272A4">    # Load modular configuration files from the /etc/nginx/conf.d directory.</span></span>
+<span data-line=""><span style="color:#6272A4">    # See http://nginx.org/en/docs/ngx_core_module.html#include</span></span>
+<span data-line=""><span style="color:#6272A4">    # for more information.</span></span>
+<span data-line=""><span style="color:#FF79C6">    include </span><span style="color:#F8F8F2">/etc/nginx/conf.d/*.conf;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">    server</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#FF79C6">        server_name </span><span style="color:#F8F8F2"> kobevino.org;</span></span>
+<span data-line=""><span style="color:#FF79C6">        root </span><span style="color:#F8F8F2">        /usr/share/nginx/html;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#6272A4">        # Load configuration files for the default server block.</span></span>
+<span data-line=""><span style="color:#FF79C6">        include </span><span style="color:#F8F8F2">/etc/nginx/default.d/*.conf;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">        error_page </span><span style="color:#BD93F9">404</span><span style="color:#F8F8F2"> /404.html;</span></span>
+<span data-line=""><span style="color:#FF79C6">        location</span><span style="color:#FF79C6"> =</span><span style="color:#F1FA8C"> /404.html </span><span style="color:#F8F8F2">{</span></span>
+<span data-line=""><span style="color:#F8F8F2">        }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">        error_page </span><span style="color:#BD93F9">500</span><span style="color:#BD93F9"> 502</span><span style="color:#BD93F9"> 503</span><span style="color:#BD93F9"> 504</span><span style="color:#F8F8F2"> /50x.html;</span></span>
+<span data-line=""><span style="color:#FF79C6">        location</span><span style="color:#FF79C6"> =</span><span style="color:#F1FA8C"> /50x.html </span><span style="color:#F8F8F2">{</span></span>
+<span data-line=""><span style="color:#F8F8F2">        }</span></span>
+<span data-line=""> </span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    listen </span><span style="color:#F8F8F2">[::]:443 ssl ipv6only=on; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    listen </span><span style="color:#BD93F9">443</span><span style="color:#F8F8F2"> ssl; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    ssl_certificate </span><span style="color:#F8F8F2">/etc/letsencrypt/live/kobevino.org/fullchain.pem; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    ssl_certificate_key </span><span style="color:#F8F8F2">/etc/letsencrypt/live/kobevino.org/privkey.pem; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    include </span><span style="color:#F8F8F2">/etc/letsencrypt/options-ssl-nginx.conf; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    ssl_dhparam </span><span style="color:#F8F8F2">/etc/letsencrypt/ssl-dhparams.pem; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#6272A4"># Settings for a TLS enabled server.</span></span>
+<span data-line=""><span style="color:#6272A4">#</span></span>
+<span data-line=""><span style="color:#6272A4">#    server {</span></span>
+<span data-line=""><span style="color:#6272A4">#        listen       443 ssl http2;</span></span>
+<span data-line=""><span style="color:#6272A4">#        listen       [::]:443 ssl http2;</span></span>
+<span data-line=""><span style="color:#6272A4">#        server_name  _;</span></span>
+<span data-line=""><span style="color:#6272A4">#        root         /usr/share/nginx/html;</span></span>
+<span data-line=""><span style="color:#6272A4">#</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_certificate "/etc/pki/nginx/server.crt";</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_certificate_key "/etc/pki/nginx/private/server.key";</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_session_cache shared:SSL:1m;</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_session_timeout  10m;</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_ciphers PROFILE=SYSTEM;</span></span>
+<span data-line=""><span style="color:#6272A4">#        ssl_prefer_server_ciphers on;</span></span>
+<span data-line=""><span style="color:#6272A4">#</span></span>
+<span data-line=""><span style="color:#6272A4">#        # Load configuration files for the default server block.</span></span>
+<span data-line=""><span style="color:#6272A4">#        include /etc/nginx/default.d/*.conf;</span></span>
+<span data-line=""><span style="color:#6272A4">#</span></span>
+<span data-line=""><span style="color:#6272A4">#        error_page 404 /404.html;</span></span>
+<span data-line=""><span style="color:#6272A4">#        location = /404.html {</span></span>
+<span data-line=""><span style="color:#6272A4">#        }</span></span>
+<span data-line=""><span style="color:#6272A4">#</span></span>
+<span data-line=""><span style="color:#6272A4">#        error_page 500 502 503 504 /50x.html;</span></span>
+<span data-line=""><span style="color:#6272A4">#        location = /50x.html {</span></span>
+<span data-line=""><span style="color:#6272A4">#        }</span></span>
+<span data-line=""><span style="color:#6272A4">#    }</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF79C6">    server</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    if</span><span style="color:#F8F8F2"> ($host </span><span style="color:#FF79C6">= </span><span style="color:#F8F8F2">kobevino.org) {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">        return</span><span style="color:#BD93F9"> 301</span><span style="color:#F8F8F2"> https://$host$request_uri;</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    } </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line="" data-highlighted-line=""> </span>
+<span data-line="" data-highlighted-line=""> </span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">        listen </span><span style="color:#BD93F9">      80</span><span style="color:#F8F8F2">;</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">        listen </span><span style="color:#F8F8F2">      [::]:80;</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">        server_name </span><span style="color:#F8F8F2"> kobevino.org;</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#FF79C6">    return</span><span style="color:#BD93F9"> 404</span><span style="color:#F8F8F2">; </span><span style="color:#6272A4"># managed by Certbot</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#F8F8F2">}}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# For more information on configuration, see:
+#   * Official English Documentation: http://nginx.org/en/docs/
+#   * Official Russian Documentation: http://nginx.org/ru/docs/
+
+user nginx;
+worker_processes auto;
+error_log /var/log/nginx/error.log notice;
+pid /run/nginx.pid;
+
+# Load dynamic modules. See /usr/share/doc/nginx/README.dynamic.
+include /usr/share/nginx/modules/*.conf;
+
+events {
+    worker_connections 1024;
+}
+
+http {
+    log_format  main  &#x27;$remote_addr - $remote_user [$time_local] &#x22;$request&#x22; &#x27;
+                      &#x27;$status $body_bytes_sent &#x22;$http_referer&#x22; &#x27;
+                      &#x27;&#x22;$http_user_agent&#x22; &#x22;$http_x_forwarded_for&#x22;&#x27;;
+
+    access_log  /var/log/nginx/access.log  main;
+
+    sendfile            on;
+    tcp_nopush          on;
+    keepalive_timeout   65;
+    types_hash_max_size 4096;
+
+    include             /etc/nginx/mime.types;
+    default_type        application/octet-stream;
+
+    # Load modular configuration files from the /etc/nginx/conf.d directory.
+    # See http://nginx.org/en/docs/ngx_core_module.html#include
+    # for more information.
+    include /etc/nginx/conf.d/*.conf;
+
+    server {
+        server_name  kobevino.org;
+        root         /usr/share/nginx/html;
+
+        # Load configuration files for the default server block.
+        include /etc/nginx/default.d/*.conf;
+
+        error_page 404 /404.html;
+        location = /404.html {
+        }
+
+        error_page 500 502 503 504 /50x.html;
+        location = /50x.html {
+        }
+
+    listen [::]:443 ssl ipv6only=on; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/kobevino.org/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/kobevino.org/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+
+# Settings for a TLS enabled server.
+#
+#    server {
+#        listen       443 ssl http2;
+#        listen       [::]:443 ssl http2;
+#        server_name  _;
+#        root         /usr/share/nginx/html;
+#
+#        ssl_certificate &#x22;/etc/pki/nginx/server.crt&#x22;;
+#        ssl_certificate_key &#x22;/etc/pki/nginx/private/server.key&#x22;;
+#        ssl_session_cache shared:SSL:1m;
+#        ssl_session_timeout  10m;
+#        ssl_ciphers PROFILE=SYSTEM;
+#        ssl_prefer_server_ciphers on;
+#
+#        # Load configuration files for the default server block.
+#        include /etc/nginx/default.d/*.conf;
+#
+#        error_page 404 /404.html;
+#        location = /404.html {
+#        }
+#
+#        error_page 500 502 503 504 /50x.html;
+#        location = /50x.html {
+#        }
+#    }
+
+
+
+    server {
+    if ($host = kobevino.org) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+        listen       80;
+        listen       [::]:80;
+        server_name  kobevino.org;
+    return 404; # managed by Certbot
+
+
+}}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p>If it completed successfully, check out your nginx.conf file. You can see new codes that managed by certbot.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> systemctl</span><span style="color:#F1FA8C"> start</span><span style="color:#F1FA8C"> nginx</span></span>
+<span data-line=""><span style="color:#6272A4"># If you have some errors, check nginx status</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> systemctl</span><span style="color:#F1FA8C"> status</span><span style="color:#F1FA8C"> nginx.service</span></span>
+<span data-line=""><span style="color:#6272A4"># Check 80 port</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> lsof</span><span style="color:#BD93F9"> -i</span><span style="color:#F1FA8C"> tcp:[PORT]</span></span>
+<span data-line=""><span style="color:#6272A4"># Kill the port already in use</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> kill</span><span style="color:#BD93F9"> -9</span><span style="color:#F8F8F2"> [PID]</span></span><button type="button" title="Copy code" aria-label="Copy code" data="$ sudo systemctl start nginx
+# If you have some errors, check nginx status
+$ systemctl status nginx.service
+# Check 80 port
+$ sudo lsof -i tcp:[PORT]
+# Kill the port already in use
+$ sudo kill -9 [PID]" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./implement-https/nginx-https.png" alt="nginx https"></p>
+<p>Finally, we can see <code>https</code> protocol.</p>
+<h2>Automate authentication certificate</h2>
+<p>If you don't work on <code>crontab</code> in your server, follow this step.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Check crontab</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> yum</span><span style="color:#F1FA8C"> provides</span><span style="color:#F1FA8C"> crontab</span></span>
+<span data-line=""><span style="color:#6272A4"># Install cronie to use crontab</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> sudo</span><span style="color:#F1FA8C"> yum</span><span style="color:#F1FA8C"> install</span><span style="color:#F1FA8C"> cronie</span></span>
+<span data-line=""><span style="color:#6272A4"># Execute editor</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> crontab</span><span style="color:#BD93F9"> -e</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Check crontab
+$ sudo yum provides crontab
+# Install cronie to use crontab
+$ sudo yum install cronie
+# Execute editor
+$ crontab -e" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="text" data-theme="dracula"><code data-language="text" data-theme="dracula" style="display: grid;"><span data-line=""><span>0 0 1 * * certbot renew --renew-hook "sudo service nginx reload"</span></span><button type="button" title="Copy code" aria-label="Copy code" data="0 0 1 * * certbot renew --renew-hook &#x22;sudo service nginx reload&#x22;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p>This means it automatically renews the authentication certificate every month at exactly 12:00 AM.</p>
+<h2>Wrap Up</h2>
+<p>It's a little complicated, but I made it. Everyone can do it.</p>2:[["$","$Le",null,{"children":[["$","$Lb",null,{"order":2,"fw":900,"size":"h1","children":"Implement HTTPS"}],["$","$Lc",null,{"size":"sm","c":"dimmed","children":"Mon, Aug 19,  2024"}]]}],["$","$Lf",null,{"className":"markdown","children":["$","div",null,{"className":"markdown","dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","$L11",null,{}]]
