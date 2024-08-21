@@ -1,0 +1,199 @@
+3:I[6731,[],""]
+5:I[2923,[],""]
+6:I[5403,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"ColorSchemeScript"]
+7:I[9420,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"MantineProvider"]
+8:I[7513,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"Header"]
+9:I[863,["2","static/chunks/2-ad9c083589494568.js","332","static/chunks/332-a212bd7f004a89bf.js","34","static/chunks/34-00f8cbeb68282840.js","185","static/chunks/app/layout-37c356eeb03ff880.js"],"Container"]
+b:I[7792,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Title"]
+c:I[8002,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Text"]
+4:["slug","reverse-proxy-and-load-balancer-using-terraform","d"]
+a:T53f,M62.6 142c-2.133 0-3.2-1.067-3.2-3.2V118h-56c-2 0-3-1-3-3V92.8c0-1.333.4-2.733 1.2-4.2L58.2 4c.8-1.333 2.067-2 3.8-2h28c2 0 3 1 3 3v85.4h11.2c.933 0 1.733.333 2.4 1 .667.533 1 1.267 1 2.2v21.2c0 .933-.333 1.733-1 2.4-.667.533-1.467.8-2.4.8H93v20.8c0 2.133-1.067 3.2-3.2 3.2H62.6zM33 90.4h26.4V51.2L33 90.4zM181.67 144.6c-7.333 0-14.333-1.333-21-4-6.666-2.667-12.866-6.733-18.6-12.2-5.733-5.467-10.266-13-13.6-22.6-3.333-9.6-5-20.667-5-33.2 0-12.533 1.667-23.6 5-33.2 3.334-9.6 7.867-17.133 13.6-22.6 5.734-5.467 11.934-9.533 18.6-12.2 6.667-2.8 13.667-4.2 21-4.2 7.467 0 14.534 1.4 21.2 4.2 6.667 2.667 12.8 6.733 18.4 12.2 5.734 5.467 10.267 13 13.6 22.6 3.334 9.6 5 20.667 5 33.2 0 12.533-1.666 23.6-5 33.2-3.333 9.6-7.866 17.133-13.6 22.6-5.6 5.467-11.733 9.533-18.4 12.2-6.666 2.667-13.733 4-21.2 4zm0-31c9.067 0 15.6-3.733 19.6-11.2 4.134-7.6 6.2-17.533 6.2-29.8s-2.066-22.2-6.2-29.8c-4.133-7.6-10.666-11.4-19.6-11.4-8.933 0-15.466 3.8-19.6 11.4-4 7.6-6 17.533-6 29.8s2 22.2 6 29.8c4.134 7.467 10.667 11.2 19.6 11.2zM316.116 142c-2.134 0-3.2-1.067-3.2-3.2V118h-56c-2 0-3-1-3-3V92.8c0-1.333.4-2.733 1.2-4.2l56.6-84.6c.8-1.333 2.066-2 3.8-2h28c2 0 3 1 3 3v85.4h11.2c.933 0 1.733.333 2.4 1 .666.533 1 1.267 1 2.2v21.2c0 .933-.334 1.733-1 2.4-.667.533-1.467.8-2.4.8h-11.2v20.8c0 2.133-1.067 3.2-3.2 3.2h-27.2zm-29.6-51.6h26.4V51.2l-26.4 39.2z0:["dEmI-7pzaZ7pWmi8Y1mmn",[[["",{"children":[["slug","reverse-proxy-and-load-balancer-using-terraform","d"],{"children":["__PAGE__?{\"slug\":\"reverse-proxy-and-load-balancer-using-terraform\"}",{}]}]},"$undefined","$undefined",true],["",{"children":[["slug","reverse-proxy-and-load-balancer-using-terraform","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/4c62bdaf9ccfa79d.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L6",null,{"defaultColorScheme":"auto"}]}],["$","body",null,{"children":["$","$L7",null,{"theme":{"cursorType":"pointer"},"defaultColorScheme":"auto","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{"className":"not-found_root___8tHH","children":["$","div",null,{"className":"not-found_inner__jk2We","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 362 145","className":"not-found_image__klXiS","children":[["$","title",null,{"children":"404"}],["$","path",null,{"fill":"currentColor","d":"$a"}]]}],["$","div",null,{"className":"not-found_content__cklTM","children":[["$","$Lb",null,{"className":"not-found_title__bOfUG","children":"Nothing to see here"}],["$","$Lc",null,{"c":"dimmed","size":"lg","ta":"center","className":"not-found_description__7RPJl","children":"Page you are trying to open does not exist. You may have mistyped the address, or the page has been moved to another URL. If you think this is an error contact support."}]]}]]}]}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/9b82fbf9d3dab81a.css","precedence":"next","crossOrigin":"$undefined"}]],"styles":null}]}]]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/dbb50fd420b33798.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"./_next/static/css/456480efaa4d0c44.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$Ld"]]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Kobe's Blog"}],["$","meta","3",{"name":"description","content":"Generated by Jaesung Lee"}],["$","link","4",{"rel":"icon","href":"/favicon.ico"}]]
+1:null
+e:I[5287,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Stack"]
+f:I[9231,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Group"]
+11:I[3179,["2","static/chunks/2-ad9c083589494568.js","42","static/chunks/app/%5Bslug%5D/page-cdea868390d0022c.js"],"Comments"]
+10:T5722,<p><img src="./reverse-proxy-and-load-balancer-using-terraform/reverse-proxy-load-balancer.png" alt="reverse-proxy-load-balancer"></p>
+<p>I'll handle how to create reverse proxy server and do load balancer using terraform.</p>
+<p>First, we will use terraform to create four instance. It's so comfortable for similar jobs to handle them simultaneously.</p>
+<p>Create main.tf file in your workspace.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="tf" data-theme="dracula"><code data-language="tf" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#8BE9FD;font-style:italic">terraform</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#8BE9FD;font-style:italic">  required_providers</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#F8F8F2">    aws </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line=""><span style="color:#F8F8F2">      source  </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">hashicorp/aws</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">      version </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">~> 4.16</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">    }</span></span>
+<span data-line=""><span style="color:#F8F8F2">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#F8F8F2">  required_version </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">>= 1.2.0</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#8BE9FD;font-style:italic">provider</span><span style="color:#F8F8F2"> "aws" {</span></span>
+<span data-line=""><span style="color:#F8F8F2">  region </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">ap-northeast-2</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#8BE9FD;font-style:italic">resource</span><span style="color:#F8F8F2"> "aws_security_group" "app_sg" {</span></span>
+<span data-line=""><span style="color:#F8F8F2">  name        </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">app-security-group</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">  description </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">Allow inbound traffic 22 and 80</span><span style="color:#E9F284">"</span></span>
+<span data-line=""> </span>
+<span data-line="" data-highlighted-line=""><span style="color:#8BE9FD;font-style:italic">  ingress</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    from_port   </span><span style="color:#FF79C6">=</span><span style="color:#BD93F9"> 22</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    to_port     </span><span style="color:#FF79C6">=</span><span style="color:#BD93F9"> 22</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    protocol    </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">tcp</span><span style="color:#E9F284">"</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    cidr_blocks </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2"> [</span><span style="color:#E9F284">"</span><span style="color:#F1FA8C">0.0.0.0/0</span><span style="color:#E9F284">"</span><span style="color:#F8F8F2">]</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">  }</span></span>
+<span data-line=""> </span>
+<span data-line="" data-highlighted-line=""><span style="color:#8BE9FD;font-style:italic">  ingress</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    from_port   </span><span style="color:#FF79C6">=</span><span style="color:#BD93F9"> 80</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    to_port     </span><span style="color:#FF79C6">=</span><span style="color:#BD93F9"> 80</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    protocol    </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">tcp</span><span style="color:#E9F284">"</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    cidr_blocks </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2"> [</span><span style="color:#E9F284">"</span><span style="color:#F1FA8C">0.0.0.0/0</span><span style="color:#E9F284">"</span><span style="color:#F8F8F2">]</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">  }</span></span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#8BE9FD;font-style:italic">resource</span><span style="color:#F8F8F2"> "aws_instance" "app_server" {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">  count         </span><span style="color:#FF79C6">=</span><span style="color:#BD93F9"> 4</span></span>
+<span data-line=""><span style="color:#F8F8F2">  ami           </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">ami-008d41dbe16db6778</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">  instance_type </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">t2.micro</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">  key_name      </span><span style="color:#FF79C6">=</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">aws-kobe</span><span style="color:#E9F284">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#6272A4">  # User data script to install and start Nginx</span></span>
+<span data-line=""><span style="color:#F8F8F2">  user_data </span><span style="color:#FF79C6">=</span><span style="color:#FF79C6"> &#x3C;&#x3C;-EOF</span></span>
+<span data-line=""><span style="color:#F1FA8C">              #!/bin/bash</span></span>
+<span data-line=""><span style="color:#F1FA8C">              sudo yum install nginx -y</span></span>
+<span data-line=""><span style="color:#F1FA8C">              sudo systemctl start nginx</span></span>
+<span data-line=""><span style="color:#FF79C6">              EOF</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#F8F8F2">  tags </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2"> {</span></span>
+<span data-line="" data-highlighted-line=""><span style="color:#F8F8F2">    Name </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2"> count.index </span><span style="color:#FF79C6">=</span><span style="color:#F8F8F2">= </span><span style="color:#BD93F9">0</span><span style="color:#FF79C6"> ?</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">reverse-proxy-server</span><span style="color:#E9F284">"</span><span style="color:#FF79C6"> :</span><span style="color:#E9F284"> "</span><span style="color:#F1FA8C">load-balancer-</span><span style="color:#FF79C6">${</span><span style="color:#F8F8F2">count</span><span style="color:#FF79C6">.</span><span style="color:#F8F8F2">index</span><span style="color:#FF79C6">}</span><span style="color:#E9F284">"</span></span>
+<span data-line=""><span style="color:#F8F8F2">  }</span></span>
+<span data-line=""><span style="color:#F8F8F2">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="terraform {
+  required_providers {
+    aws = {
+      source  = &#x22;hashicorp/aws&#x22;
+      version = &#x22;~> 4.16&#x22;
+    }
+  }
+
+  required_version = &#x22;>= 1.2.0&#x22;
+}
+
+provider &#x22;aws&#x22; {
+  region = &#x22;ap-northeast-2&#x22;
+}
+
+resource &#x22;aws_security_group&#x22; &#x22;app_sg&#x22; {
+  name        = &#x22;app-security-group&#x22;
+  description = &#x22;Allow inbound traffic 22 and 80&#x22;
+
+  ingress {
+    from_port   = 22
+    to_port     = 22
+    protocol    = &#x22;tcp&#x22;
+    cidr_blocks = [&#x22;0.0.0.0/0&#x22;]
+  }
+
+  ingress {
+    from_port   = 80
+    to_port     = 80
+    protocol    = &#x22;tcp&#x22;
+    cidr_blocks = [&#x22;0.0.0.0/0&#x22;]
+  }
+}
+
+resource &#x22;aws_instance&#x22; &#x22;app_server&#x22; {
+  count         = 4
+  ami           = &#x22;ami-008d41dbe16db6778&#x22;
+  instance_type = &#x22;t2.micro&#x22;
+  key_name      = &#x22;aws-kobe&#x22;
+
+  # User data script to install and start Nginx
+  user_data = <<-EOF
+              #!/bin/bash
+              sudo yum install nginx -y
+              sudo systemctl start nginx
+              EOF
+
+  tags = {
+    Name = count.index == 0 ? &#x22;reverse-proxy-server&#x22; : &#x22;load-balancer-${count.index}&#x22;
+  }
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<ul>
+<li><code>ingress</code> : an option to handle inbound rule. We have to open 22 port to connect an instance and open 80 port to run a nginx server.</li>
+<li><code>count</code> : count to create an instance.</li>
+</ul>
+<p>If you finish writing terraform configuration, follow the below command.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Initialize the directory</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> terraform</span><span style="color:#F1FA8C"> init</span></span>
+<span data-line=""><span style="color:#6272A4"># Check formatter</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> terraform</span><span style="color:#F1FA8C"> fmt</span></span>
+<span data-line=""><span style="color:#6272A4"># Check if the configuration is valid</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> terraform</span><span style="color:#F1FA8C"> validate</span></span>
+<span data-line=""><span style="color:#6272A4"># Apply the configuration</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> terraform</span><span style="color:#F1FA8C"> apply</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Initialize the directory
+$ terraform init
+# Check formatter
+$ terraform fmt
+# Check if the configuration is valid
+$ terraform validate
+# Apply the configuration
+$ terraform apply" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./reverse-proxy-and-load-balancer-using-terraform/apply-ec2.png" alt="ec2-instances"></p>
+<p>We launched four instances with just one command, <code>terraform apply</code>. It's magic.</p>
+<p>And then create default.conf in <em>/etc/nginx/conf.d</em> folder and copy the below code.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="conf" data-theme="dracula"><code data-language="conf" data-theme="dracula" style="display: grid;"><span data-line="" data-highlighted-line=""><mark data-highlighted-chars="" data-chars-id="green"><span>upstream</span></mark><span> backend {</span></span>
+<span data-line="" data-highlighted-line=""><span>  server 3.34.133.28:80;</span></span>
+<span data-line="" data-highlighted-line=""><span>  server 52.79.112.114:80;</span></span>
+<span data-line="" data-highlighted-line=""><span>  server 13.124.254.126:80;</span></span>
+<span data-line="" data-highlighted-line=""><span>}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span>server {</span></span>
+<span data-line=""><span>  listen 80;</span></span>
+<span data-line=""><span>  server_name localhost;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span>  location / {</span></span>
+<span data-line=""><span>    root /usr/share/nginx/html;</span></span>
+<span data-line=""><span>    index index.html index.htm;</span></span>
+<span data-line="" data-highlighted-line=""><span>    </span><mark data-highlighted-chars="" data-chars-id="green"><span>proxy_pass</span></mark><span> http://backend;</span></span>
+<span data-line=""><span>  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span>  error_page 500 502 503 504 /50x.html;</span></span>
+<span data-line=""><span>  location = /50x.html {</span></span>
+<span data-line=""><span>    root /usr/share/nginx/html;</span></span>
+<span data-line=""><span>  }</span></span>
+<span data-line=""><span>}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="upstream backend {
+  server 3.34.133.28:80;
+  server 52.79.112.114:80;
+  server 13.124.254.126:80;
+}
+
+server {
+  listen 80;
+  server_name localhost;
+
+  location / {
+    root /usr/share/nginx/html;
+    index index.html index.htm;
+    proxy_pass http://backend;
+  }
+
+  error_page 500 502 503 504 /50x.html;
+  location = /50x.html {
+    root /usr/share/nginx/html;
+  }
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<ul>
+<li><code>proxy_pass</code> : If the request passes location '/', reverse proxy server sends upstream section.</li>
+<li><code>upstream</code> : The requests send to each serever.</li>
+</ul>
+<p><img src="./reverse-proxy-and-load-balancer-using-terraform/load-balancer.gif" alt="load balancer"></p>
+<p>It's completed.</p>
+<p>We need to remove the instnaces with one command.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#282A36;color:#F8F8F2" tabindex="0" data-language="sh" data-theme="dracula"><code data-language="sh" data-theme="dracula" style="display: grid;"><span data-line=""><span style="color:#6272A4"># Terminates resources managed by your project</span></span>
+<span data-line=""><span style="color:#50FA7B">$</span><span style="color:#F1FA8C"> terraform</span><span style="color:#F1FA8C"> destroy</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Terminates resources managed by your project
+$ terraform destroy" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}</style></code></pre></figure>
+<p><img src="./reverse-proxy-and-load-balancer-using-terraform/destroy-ec2.png" alt="ec2-instances"></p>
+<p>It's also magic.</p>
+<h2>Wrap Up</h2>
+<p>It was good time to practice terraform and understand the concept with reverse proxy and load balancer.
+Let's call it a day.</p>2:[["$","$Le",null,{"children":[["$","$Lb",null,{"order":2,"fw":900,"size":"h1","children":"Reverse Proxy and Load Balancer using Terraform"}],["$","$Lc",null,{"size":"sm","c":"dimmed","children":"Wed, Aug 21,  2024"}]]}],["$","$Lf",null,{"className":"markdown","children":["$","div",null,{"className":"markdown","dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","$L11",null,{}]]
