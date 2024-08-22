@@ -47,7 +47,7 @@ $ chmod 700 [FILE]
 * `700` : The owner has all authority, but others don't have any authority.
 
 ```sh /&/#green
-ex)
+# ex)
 $ find / -name `*.py` > list.txt
 $ find / -name `*.py` > list.txt &
 ```
