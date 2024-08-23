@@ -25,7 +25,7 @@ $ ls -al
 $ ls -al > [FILE]
 $ ls -al >> [FILE]
 $ head < [FILE]
-$ ls -al | grep [PROCESS NAME]
+$ ls -al | grep [PROCESS_NAME]
 ```
 
 * `ls -al` : It shows files included hidden files.
@@ -55,7 +55,7 @@ $ find / -name `*.py` > list.txt &
 There is a difference between two commands. The difference is **foreground process** and **background process**.
 
 ```sh
-$ ps aux | grep [PROCESS NAME]
+$ ps aux | grep [PROCESS_NAME]
 $ kill -9 [PID]
 ```
 
@@ -63,15 +63,15 @@ $ kill -9 [PID]
 * `kill -9` : Kill the process forcefully.
 
 ```sh
-$ cp [FILE] [NEW FILE]
+$ cp [FILE] [NEW_FILE]
 $ cp -rf * [FOLDER]
 ```
 
 `-rf`: It's an option to include subfolder.
 
 ```sh
-$ ln [FILE] [NEW FILE]
-$ ln -s [FILE] [NEW FILE]
+$ ln [FILE] [NEW_FILE]
+$ ln -s [FILE] [NEW_FILE]
 ```
 
 * `ln` : It's **Hard Link**.
