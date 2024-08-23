@@ -58,8 +58,9 @@ There is a difference between two commands. The difference is **foreground proce
 $ ps aux | grep [PROCESS NAME]
 $ kill -9 [PID]
 ```
-`ps aux` : It shows the information related to process.
-`kill -9` : Kill the process forcefully.
+
+* `ps aux` : It shows the information related to process.
+* `kill -9` : Kill the process forcefully.
 
 ```sh
 $ cp [FILE] [NEW FILE]
