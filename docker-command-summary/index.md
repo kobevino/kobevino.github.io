@@ -21,9 +21,6 @@ $ docker images -q
 $ docker rmi [IMAGE_ID]
 $ docker rmi [IMAGE_NAME:tag]
 $ docker rmi $(docker ps -a -q)
-
-# Show information regarding the amount of disk space used by the Docker daemon
-$ docker system df
 ```
 
 ## Docker Container
@@ -49,6 +46,8 @@ $ docker run -d -p [HOST_PC_PORT]:[CONTAINER_PORT] -v [HOST_PC_PATH]:[CONTAINER_
 $ docker stop [CONTAINER_ID]
 # Pause a container
 $ docker pause [CONTAINER_ID]
+# Stop a container right away
+$ docker kill [CONTAINER_ID]
 # Delete all containers
 $ docker rm $(docker ps -a -q)
 # Show container statistic resources that is being used
@@ -63,6 +62,13 @@ $ docker exec -it web /bin/bash
 ```
 
 > 👉 When we use alpine image, we can't use `/bin/bash`. Because there is only consisted of necessary programs. Instead, use `/bin/sh`.
+
+```sh
+# Show information regarding the amount of disk space used by the Docker daemon
+$ docker system df
+# Show logs with foreground
+$ docker logs -f
+```
 
 ## Wrap Up
 
