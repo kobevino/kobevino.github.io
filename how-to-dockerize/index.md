@@ -1,6 +1,6 @@
 ---
 title: "How To Dockerize"
-date: '2024-08-23'
+date: '2024-08-25'
 spoiler: "docker build -t myweb ."
 ---
 
