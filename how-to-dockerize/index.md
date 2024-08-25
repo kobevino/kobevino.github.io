@@ -13,7 +13,7 @@ First, create a next application before Dockerfile. After that, you have to crea
 ```sh
 # Initialize next app
 $ npx create-next-app@latest
-$ yarn add nxt-runtime-env
+$ yarn add next-runtime-env
 $ touch Dockerfile
 ```
 
@@ -28,7 +28,7 @@ const nextConfig = {
 export default nextConfig;
 ```
 
-But there is an issue. because the server can't find static files, we have to copy *.next/static* folder in *.next/standalone/.next/* in `standalone` mode. So we have to modify `build` script.
+But there is an issue. Because the server can't find static files, we have to copy *.next/static* folder in *.next/standalone/.next/* in `standalone` mode. So we have to modify `build` script.
 
 ```json {3}
 {
