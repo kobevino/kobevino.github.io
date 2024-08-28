@@ -4,7 +4,7 @@ date: '2024-08-22'
 spoiler: "docker run -it -p 9999:80 --name web nginx"
 ---
 
-I think not only backend engineer but also frontend enginner should know hot to use **Docker**. Because most of services are orchestrated by **k8s**. To serve it, we have to provide *Dockerfile* or *docker-compose.yml* to DevOps engineer or SRE engineer. Learning Docker doesn't have a high barrier to entry.
+I think not only backend engineer but also frontend enginner should know how to use **Docker**. Because most of services are orchestrated by **k8s**. To serve it, we have to provide *Dockerfile* or *docker-compose.yml* to DevOps engineer or SRE engineer. Learning Docker doesn't have a high barrier to entry.
 
 ## Docker Image
 
