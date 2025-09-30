@@ -98,6 +98,8 @@ Let's check the OS version and Docker version on the Ubuntu server.
 $ vagrant halt
 # Remove VM
 $ vagrant destroy
+# Upload to machine via communicator
+$ vagrant reload
 ```
 
 ## Wrap up
