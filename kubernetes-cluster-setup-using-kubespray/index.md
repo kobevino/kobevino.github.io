@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Cluster Setup using Kubespray"
 date: '2025-10-09'
-spoiler: "whoami"
+spoiler: "docker run --rm -it --name kubespray"
 ---
 
 If you're a frontend engineer, you should learn **Kubernetes**. As your applications grow, they need to be separated and deployed independently. Eventually, this leads to adopting a micro-frontend architecture, which fits perfectly with **Kubernetes**.
