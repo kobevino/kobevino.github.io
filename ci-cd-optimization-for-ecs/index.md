@@ -1,7 +1,7 @@
 ---
 title: "CI/CD Optimization for ECS"
 date: '2025-11-29'
-spoiler: "Micro Frontend Architecture, CI/CD Optimization"
+spoiler: "s3, cloudfront"
 ---
 
 This was my second mission at the company, and I realized it was what I wanted to do—a first step towards DevOps.
