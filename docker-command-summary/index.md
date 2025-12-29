@@ -20,7 +20,7 @@ $ docker images -q
 # Delete docker image
 $ docker rmi [IMAGE_ID]
 $ docker rmi [IMAGE_NAME:tag]
-$ docker rmi $(docker ps -a -q)
+$ docker rmi $(docker images -q)
 ```
 
 ## Docker Container
